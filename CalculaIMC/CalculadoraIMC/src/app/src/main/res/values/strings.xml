@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CalculadorIMC-N1</string>
+    <string name="app_logo">Logo do aplicativo IMC</string>
+    <string name="btn_calculadora_imc">Calculadora IMC</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_fechar">Fechar</string>
+
+    <string name="hint_peso">Digite seu peso (kg)</string>
+    <string name="hint_altura">Digite sua altura (m)</string>
+
+    <string name="msg_abaixo_peso">Você está abaixo do peso ideal. Que tal conversar com um profissional da saúde para entender melhor sua alimentação?</string>
+    <string name="msg_peso_normal">Parabéns! Você está com o peso ideal. Continue com seus bons hábitos!</string>
+    <string name="msg_sobrepeso">Você está com sobrepeso. Um acompanhamento nutricional pode te ajudar a alcançar seu peso ideal!</string>
+    <string name="msg_obesidade1">Você está com obesidade grau I. É importante buscar orientação médica e manter hábitos saudáveis.</string>
+    <string name="msg_obesidade2">Você está com obesidade grau II. Cuide da sua saúde com acompanhamento profissional.</string>
+    <string name="msg_obesidade3">Você está com obesidade grau III. Recomendamos buscar ajuda médica o quanto antes.</string>
+
+</resources>
