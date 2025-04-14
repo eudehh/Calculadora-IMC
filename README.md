@@ -5,12 +5,14 @@ Este projeto é um aplicativo Android desenvolvido em Java, com o objetivo de ca
 
 ---
 
-## 👤 Informações da Aluna
+## 👤 Informações do Aluno
 
-**Nome:** Deborah Pavanelli Colicchio
-**Curso:** Análise e Desenvolvimento de Sistemas — FECAP - 3 Semestre 
-**Disciplina:** Programação Mobile
-**Professor:** Vinicius Heltai 
+- **Nome:** Deborah Pavanelli Colicchio
+- **RA:** 24025857
+- **Professor:** Vinicius Heltai  
+- **Semestre:** 3º  
+- **Disciplina:** Programação Mobile
+- **Instituição:** FECAPVocê pode utilizar **qualquer uma das opções abaixo** para abrir e testar o projeto:
 
 ---
 
